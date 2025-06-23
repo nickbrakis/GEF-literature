@@ -1,4 +1,4 @@
-| name                  | year | doi                                                                                                  | comment                              |
+| name (encoded)                | year | doi                                                                                                  | comment                              |
 |-----------------------|------|------------------------------------------------------------------------------------------------------|--------------------------------------|
 | global personalized   | 2024 | [10.1109/TSG.2024.3448618](https://doi.org/10.1109/TSG.2024.3448618)                                | difficult, not global vs local       |
 | Transformer strategies| 2023 | [10.48550/arXiv.2306.10891](https://arxiv.org/abs/2306.10891)                                       | Multivariate Vs local Vs global      |
