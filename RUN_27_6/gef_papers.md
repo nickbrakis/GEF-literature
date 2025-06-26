@@ -9,14 +9,17 @@
 **Notes of the papers on the links below**
 ---
 
-[Deciding When to Use a Personalized Model for Load Forecasting ](https://cooked-flier-beb.notion.site/Deciding-When-to-Use-a-Personalized-Model-for-Load-Forecasting-21a065be0c03806eabdce8a6033a3b8b?source=copy_link)
+1. [Deciding When to Use a Personalized Model for Load Forecasting ](https://cooked-flier-beb.notion.site/Deciding-When-to-Use-a-Personalized-Model-for-Load-Forecasting-21a065be0c03806eabdce8a6033a3b8b?source=copy_link)
 
-[Transformer Training Strategies for Forecasting Multiple Load Time Series](https://cooked-flier-beb.notion.site/Transformer-Training-Strategies-for-Forecasting-Multiple-Load-Time-Series-21a065be0c0380bd9336e683ffdb62ee?source=copy_link)
+2. [Transformer Training Strategies for Forecasting Multiple Load Time Series](https://cooked-flier-beb.notion.site/Transformer-Training-Strategies-for-Forecasting-Multiple-Load-Time-Series-21a065be0c0380bd9336e683ffdb62ee?source=copy_link)
 
-[Transformer neural networks for building load forecasting](https://cooked-flier-beb.notion.site/Transformer-neural-networks-for-building-load-forecasting-21b065be0c038054851feb01a01b2b73?source=copy_link)
+3. [Transformer neural networks for building load forecasting](https://cooked-flier-beb.notion.site/Transformer-neural-networks-for-building-load-forecasting-21b065be0c038054851feb01a01b2b73?source=copy_link)
 
-[Local vs. Global Models for Hierarchical Forecasting ](https://cooked-flier-beb.notion.site/Local-vs-Global-Models-for-Hierarchical-Forecasting-21a065be0c03805c98b1e5bff40abf66?pvs=74)
+4. [Local vs. Global Models for Hierarchical Forecasting ](https://cooked-flier-beb.notion.site/Local-vs-Global-Models-for-Hierarchical-Forecasting-21a065be0c03805c98b1e5bff40abf66?pvs=74)
 
-[Short-term Forecasting of Individual Residential
+5. [Short-term Forecasting of Individual Residential
 Load Based on Deep Learning and
 K-means Clustering](https://cooked-flier-beb.notion.site/Short-term-Forecasting-of-Individual-Residential-Load-Based-on-Deep-Learning-and-K-means-Clustering-21d065be0c03805b8ecfd299dc697fe5)
+
+6. [The M4 Competition: 100,000 time series and 61 forecasting
+methods](https://cooked-flier-beb.notion.site/The-M4-Competition-100-000-time-series-and-61-forecasting-methods-21e065be0c0380d3ab34cffae0c35426?source=copy_link)
