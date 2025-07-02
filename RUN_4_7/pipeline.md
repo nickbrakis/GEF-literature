@@ -90,8 +90,8 @@
 
 EDA part1
 
-![EDA part1](imgs/image1.png)
+<img src="imgs/image1.png" alt="EDA part1" width="500">
 
 EDA part2
 
-![EDA part2](imgs/image2.png)
+<img src="imgs/image2.png" alt="EDA part2" width="500">
