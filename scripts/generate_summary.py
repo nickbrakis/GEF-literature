@@ -94,7 +94,7 @@ def generate_summary(markdown_content: List[Dict]) -> str:
     
     prompt = f"""You are analyzing markdown files from a thesis research repository about Global Energy Forecasting (GEF). 
 
-The repository contains research notes, literature reviews, and analysis organized in folders with dates (RUN_XX_X format).
+The repository contains research notes mostly in greek language, literature reviews, and analysis organized in folders with dates (RUN_XX_X format).
 
 Please analyze all the provided markdown files and create a comprehensive summary that includes:
 
