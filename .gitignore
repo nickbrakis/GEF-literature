@@ -71,3 +71,8 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# lfs
+RUN_6_27\eda_files\eda_part2.ipynb
+RUN_6_27\eda_files\estonia_eda.ipynb
+RUN_6_27\eda_files\raw_series_preprocessed.csv
