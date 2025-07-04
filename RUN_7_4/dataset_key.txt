@@ -1,0 +1,74 @@
+U<X>C<X>B<X>P<X><Pr|Cs><Cov>
+
+U<X>:
+unit number
+
+C<X>:
+County number
+
+B<X>:
+business or not?
+
+P<X>:
+product type
+
+<Pr|Cs>:
+Pr for production, Cs for consumption
+
+<Cov>: 
+future:
+{'temperature':'T', 
+                    'dewpoint': 'Dp',
+                    'cloudcover_total' : 'Cl', 
+                    '10_metre_u_wind_component': 'Wu',
+                    '10_metre_v_wind_component': 'Wv', 
+                    'direct_solar_radiation': 'Dr', 
+                    'surface_solar_radiation_downwards': 'Sr',
+                    'snowfall' : 'Sn', 
+                    'total_precipitation': 'Pr',
+		    'SC': 'Static County',
+		    'SB' : Static Business',
+	    	    'SP': 'Static Product type',
+  		    'SCP': Static consumption / production}
+
+past:
+{'temperature':'T', 
+                    'dewpoint': 'Dp',
+                    'cloudcover_total' : 'Cl', 
+                    'windspeed_10m': 'W',
+                    'direct_solar_radiation': 'Drr', 
+                    'diffuse_radiation': 'Dfr', 
+                    'shortwave_radiation': 'Sr',
+                    'snowfall' : 'Sn', 
+                    'rain': 'Pr',
+		    'Capacity': 'PrCpy',
+		    'Costumer Count': 'CsCnt',
+		    'Electricity Price': 'ElPr'}
+
+
+Timeseries ID:
+0-67 for Production(unit number), 100-167 for consumption (100 + unit number)
+
+
+target:
+Index	Date		ID		Timeseries ID	00:00:00	01:00:00 .... 23:00:00
+0	2021-09-01	U0C0B0P1Pr	0		4334		4334	      2332
+1	2021-09-01	U1C0B1P1Pr	1		43334	        232           434
+...
+130	2021-09-01	U65C0B1P1Cs	165		4334	        2323          34
+131	2021-09-02	U0C0B0P1Pr	0		434		44	      233
+...
+
+
+
+covariates:
+Index	Date		ID		Timeseries ID	00:00:00	01:00:00 .... 23:00:00
+0	2021-09-01	U0C0B0P1PrT	0		32		32	      24
+1	2021-09-01	U0C0B0P1PrDp	0		3		4	      1
+...
+13	2021-09-01	U0C0B0P1PrSCP	0		1		1	      1
+14	2021-09-01	U1C0B1P1PrT	1		19	        20            21
+...
+1690	2021-09-01	U65C0B1P1CsDp	165		4334	        2323          34
+1691	2021-09-02	U0C0B0P1PrT	0		30		31	      21
+...

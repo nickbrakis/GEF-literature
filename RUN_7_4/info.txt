@@ -1,0 +1,897 @@
+~~~~~~~~~~ Prediction_unit_id 0 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 1 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 2 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 3 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 4 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 5 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 6 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 7 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 8 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 9 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 10 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 11 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 12 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 13 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 14 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 15 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 16 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 17 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 18 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 19 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 20 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 21 ~~~~~~~~~~
+	Nans of client_is_consumption_0 743
+	Nans of client_is_consumption_1 743
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 748
+	Nans of df_consumption_1 748
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 819
+	Nans of raw_normalized_cons_1 819
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 22 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 23 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 24 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 25 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 26 ~~~~~~~~~~
+	Nans of client_is_consumption_0 3811
+	Nans of client_is_consumption_1 3811
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-03-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-03-29 00:00:00
+	Nans of df_consumption_0 3819
+	Nans of df_consumption_1 3819
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-03-29 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-03-29 23:00:00
+	Nans of raw_normalized_cons_0 3842
+	Nans of raw_normalized_cons_1 3842
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-03-29 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-03-29 23:00:00
+~~~~~~~~~~ Prediction_unit_id 27 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 28 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 29 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 30 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 31 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 32 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 33 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 34 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 35 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 36 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 37 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 38 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 39 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 40 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 41 ~~~~~~~~~~
+	Nans of client_is_consumption_0 8851
+	Nans of client_is_consumption_1 8851
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-15 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-15 00:00:00
+	Nans of df_consumption_0 8858
+	Nans of df_consumption_1 8858
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-15 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-15 23:00:00
+	Nans of raw_normalized_cons_0 8881
+	Nans of raw_normalized_cons_1 8881
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-15 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-15 23:00:00
+~~~~~~~~~~ Prediction_unit_id 42 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 43 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 44 ~~~~~~~~~~
+	Nans of client_is_consumption_0 1101
+	Nans of client_is_consumption_1 1101
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-27 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-27 00:00:00
+	Nans of df_consumption_0 1108
+	Nans of df_consumption_1 1108
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-27 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-27 23:00:00
+	Nans of raw_normalized_cons_0 1131
+	Nans of raw_normalized_cons_1 1131
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-27 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-27 23:00:00
+~~~~~~~~~~ Prediction_unit_id 45 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 46 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 47 ~~~~~~~~~~
+	Nans of client_is_consumption_0 3139
+	Nans of client_is_consumption_1 3139
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-24 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-24 00:00:00
+	Nans of df_consumption_0 3147
+	Nans of df_consumption_1 3147
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-24 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-24 23:00:00
+	Nans of raw_normalized_cons_0 3170
+	Nans of raw_normalized_cons_1 3170
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-24 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-24 23:00:00
+~~~~~~~~~~ Prediction_unit_id 48 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 49 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 50 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 51 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 52 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 53 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 54 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 55 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 56 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 57 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 58 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 59 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 60 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-09-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-09-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 61 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-10-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-10-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-10-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-10-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-10-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-10-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 62 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-10-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-10-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-10-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-10-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-10-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-10-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 63 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-10-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-10-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 4
+	Nans of df_consumption_1 4
+	Start and end of df_consumption_0 2021-10-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-10-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 75
+	Nans of raw_normalized_cons_1 75
+	Start and end of raw_normalized_cons_0 2021-10-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-10-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 64 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2021-12-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2021-12-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 3
+	Nans of df_consumption_1 3
+	Start and end of df_consumption_0 2021-12-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2021-12-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 74
+	Nans of raw_normalized_cons_1 74
+	Start and end of raw_normalized_cons_0 2021-12-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2021-12-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 65 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2022-01-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2022-01-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 3
+	Nans of df_consumption_1 3
+	Start and end of df_consumption_0 2022-01-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2022-01-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 74
+	Nans of raw_normalized_cons_1 74
+	Start and end of raw_normalized_cons_0 2022-01-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2022-01-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 66 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2022-01-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2022-01-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 3
+	Nans of df_consumption_1 3
+	Start and end of df_consumption_0 2022-01-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2022-01-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 74
+	Nans of raw_normalized_cons_1 74
+	Start and end of raw_normalized_cons_0 2022-01-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2022-01-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 67 ~~~~~~~~~~
+	Nans of client_is_consumption_0 0
+	Nans of client_is_consumption_1 0
+	Start and end of client_is_consumption_0 2022-02-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2022-02-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 3
+	Nans of df_consumption_1 3
+	Start and end of df_consumption_0 2022-02-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2022-02-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 74
+	Nans of raw_normalized_cons_1 74
+	Start and end of raw_normalized_cons_0 2022-02-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2022-02-01 00:00:00 - 2023-05-31 23:00:00
+~~~~~~~~~~ Prediction_unit_id 68 ~~~~~~~~~~
+	Nans of client_is_consumption_0 3429
+	Nans of client_is_consumption_1 3429
+	Start and end of client_is_consumption_0 2022-11-01 00:00:00 - 2023-05-29 00:00:00
+	Start and end of client_is_consumption_1 2022-11-01 00:00:00 - 2023-05-29 00:00:00
+	Nans of df_consumption_0 3432
+	Nans of df_consumption_1 3432
+	Start and end of df_consumption_0 2022-11-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of df_consumption_1 2022-11-01 00:00:00 - 2023-05-31 23:00:00
+	Nans of raw_normalized_cons_0 3503
+	Nans of raw_normalized_cons_1 3503
+	Start and end of raw_normalized_cons_0 2022-11-01 00:00:00 - 2023-05-31 23:00:00
+	Start and end of raw_normalized_cons_1 2022-11-01 00:00:00 - 2023-05-31 23:00:00
