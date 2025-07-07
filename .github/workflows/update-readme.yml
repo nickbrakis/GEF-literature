@@ -2,7 +2,7 @@ name: Update README with AI Summary
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ main, master, dev ]
     paths:
       - '**/*.md'
       - '!README.md'  # Don't trigger on README.md changes to avoid loops
