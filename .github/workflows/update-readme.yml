@@ -31,11 +31,7 @@ jobs:
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: python scripts/generate_summary.py
-      
-    - name: Pull latest changes
-      run: |
-        git pull origin ${{ github.ref_name }} --rebase
-    
+
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
