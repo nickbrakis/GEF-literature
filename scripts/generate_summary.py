@@ -136,7 +136,7 @@ Files analyzed: {len(markdown_content)} | Content: {sum(f['size'] for f in markd
 
     try:
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-3.5-turbo-16k",
             messages=[
                 {
                     "role": "system",
@@ -188,7 +188,8 @@ def generate_summary_fallback(markdown_content: List[Dict], client) -> str:
 Create a brief summary covering:
 1. Research focus and objectives
 2. Key methodologies mentioned
-3. Main findings and insights
+3. Folder Structure : What each folder/run contains
+4. Main findings and insights
 
 Files: {len(markdown_content)} total
 Content previews:
@@ -208,7 +209,7 @@ Content previews:
                     "content": prompt
                 }
             ],
-            max_tokens=1500,
+            max_tokens=3000,
             temperature=0.3,
         )
         
