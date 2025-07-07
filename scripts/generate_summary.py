@@ -84,7 +84,7 @@ def generate_summary(markdown_content: List[Dict]) -> str:
     total_chars = 0
     # GPT-3.5-turbo has 16K tokens, roughly 4 chars per token
     # Leave room for prompt and response (about 10K tokens for content)
-    max_chars = 25000  # Conservative limit for GPT-3.5-turbo
+    max_chars = 30000  # Conservative limit for GPT-3.5-turbo
     
     # Sort files by size (smaller first to include more variety)
     sorted_files = sorted(markdown_content, key=lambda x: x['size'])
@@ -188,8 +188,7 @@ def generate_summary_fallback(markdown_content: List[Dict], client) -> str:
 Create a brief summary covering:
 1. Research focus and objectives
 2. Key methodologies mentioned
-3. Folder Structure : What each folder/run contains
-4. Main findings and insights
+3. Main findings and insights
 
 Files: {len(markdown_content)} total
 Content previews:
@@ -209,7 +208,7 @@ Content previews:
                     "content": prompt
                 }
             ],
-            max_tokens=3000,
+            max_tokens=1500,
             temperature=0.3,
         )
         
