@@ -1,21 +1,30 @@
 # Global Energy Forecasting (GEF) Literature Repository
 
-*Last updated: 2025-07-03*
+*Last updated: 2025-07-07*
+*Files analyzed: 8 | Content size: 29,265 characters*
 
 ## 🤖 AI-Generated Summary
 
-This repository contains research notes and documentation for a thesis on Global Energy Forecasting. The automated summary will be generated once the GitHub Actions workflow is set up and runs.
+The Global Energy Forecasting (GEF) research repository covers various topics related to energy forecasting and analysis. Key points from the provided files include:
+
+1. Research focus and objectives:
+   - The research focuses on energy load forecasting, clustering techniques for demand response in energy communities, and analysis of energy datasets.
+   
+2. Key methodologies mentioned:
+   - Clustering techniques for demand response, time series analysis using the Darts library, and data transformation methods for energy forecasting.
+
+3. Main findings and insights:
+   - Different methods are used for energy load forecasting, including short-term, medium-term, and long-term forecasting.
+   - The Enefit Dataset from a Kaggle competition involves predicting energy behavior of prosumers with solar panels in Estonia.
+   - The research repository includes papers on global personalized energy forecasting.
+
+Overall, the research repository covers a range of topics related to energy forecasting, data analysis, and clustering techniques for demand response in energy communities.
 
 ---
 
 ## 📁 Repository Structure
 
 This repository contains research notes and documentation organized by date in `RUN_XX_X` folders, where the format represents the research sessions.
-
-Current folders:
-- `RUN_20_6/` - Early research notes on clustering, energy load forecasting, and darts guide
-- `RUN_27_6/` - Extended analysis including EDA, Enefit dataset documentation, and GEF papers
-- `RUN_4_7/` - Latest pipeline documentation and dataset information
 
 ## 🔄 Automated Updates
 
@@ -29,24 +38,12 @@ When adding new research notes:
 3. Follow consistent markdown formatting
 4. The summary will be automatically updated on push
 
-## 🛠️ Setup Instructions
+## 🛠️ Technical Details
 
-To enable automated README generation:
-
-1. **Set up OpenAI API Key**:
-   - Go to your GitHub repository settings
-   - Navigate to "Secrets and variables" → "Actions"
-   - Add a new secret named `OPENAI_API_KEY` with your OpenAI API key
-
-2. **Install dependencies** (for local testing):
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run locally** (optional):
-   ```bash
-   python scripts/generate_summary.py
-   ```
+- **Summary Generator**: Python script using OpenAI GPT-4
+- **Automation**: GitHub Actions workflow
+- **Last Analysis**: 8 markdown files processed
+- **Content Volume**: 29,265 characters analyzed
 
 ---
 *This summary was generated automatically using AI. For detailed information, please refer to the individual markdown files in each folder.*
