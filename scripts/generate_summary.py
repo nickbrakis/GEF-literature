@@ -84,7 +84,7 @@ def generate_summary(markdown_content: List[Dict]) -> str:
     total_chars = 0
     # GPT-3.5-turbo has 16K tokens, roughly 4 chars per token
     # Leave room for prompt and response (about 10K tokens for content)
-    max_chars = 30000  # Conservative limit for GPT-3.5-turbo
+    max_chars = 25000  # Conservative limit for GPT-3.5-turbo
     
     # Sort files by size (smaller first to include more variety)
     sorted_files = sorted(markdown_content, key=lambda x: x['size'])
