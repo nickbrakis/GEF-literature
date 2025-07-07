@@ -37,6 +37,13 @@
 
 [A Global Data-driven Forecasting Approach for Buildings Energy Demand Prediction](https://www.notion.so/A-Global-Data-driven-Forecasting-Approach-for-Buildings-Energy-Demand-Prediction-213065be0c0380c59b64daf49d248758?pvs=21)
 
+Η συνεισφορά αυτής της έρευνας είναι αρκετά πλούσια στον τομέα της συγκριτικής μελέτης global και local μεθόδων μοντελοποίησης. Παρουσιάζεται ένα πλαίσιο εφαρμογής μίας global προσέγγισης του οποίου η απλότητα μας επιτρέπει να βγάλουμε εύκολα συμπεράσματα για την σύγκριση global και local μοντέλων. Πιο συγκεκριμένα, στα πειράματα που έγιναν μελετήθηκαν τα μοντέλα Daily Naive και Weekly Naive (ως baseline), Γραμμική Παλινδρόμηση (Linear Regression) και LightGBM. Όλα τα πειράματα εφαρμόστηκαν πάνω σε δεδομένα χρονοσειρών ζήτησης ηλεκτρικής ενέργειας κτιρίων που βρίσκονται στο Λονδίνο. Στους παρακάτω πίνακες εμφανίζονται τα αποτελέσματα των πειραμάτων με χρήση μετρικών ακρίβειας RMSE, MAE, MSE, rMAE. 
+
+Από τα πειραματικά αποτελέσματα μπορούμε να συμπεράνουμε ότι το global πλαίσιο προβλέψεων προσφέρει μεγαλύτερη ακρίβεια συγκριτικά με το naive, και τα local μοντέλα. Σε αντίθεση με τα local μοντέλα τα οποία εκπαιδεύονται για κάθε χρονοσειρά ξεχωριστά, η global προσέγγιση εκπαιδεύει ένα ενιαίο μοντέλο με βάση τα δεδομένα πολλαπλών χρονοσειρών το οποίο οδηγεί σε δύο βασικά οφέλη. 
+
+1. Βελτίωση της αποδοτικότητας του μοντέλου και της ικανότητας καλύτερης γενίκευσης στην πρόβλεψη της ζήτησης ενέργειας για ένα κτίριο που προέρχεται από ένα νέο σύνολο δεδομένων
+2. Προσαρμογή  global παραμέτρων για πολλές χρονοσειρές με αποτέλεσμα να μειώνεται σημαντικά ο φόρτος εργασίας της διαδικασία ρύθμισης υπερπαραμέτρων όταν ο αριθμός των χρονοσειρών γινεται πολύ μεγάλος.
+
 [Global vs. Local Models for Short-Term Electricity Demand Prediction in a Residential/Lodging Scenario](https://www.notion.so/Global-vs-Local-Models-for-Short-Term-Electricity-Demand-Prediction-in-a-Residential-Lodging-Scenar-216065be0c03805f8b1dcf4d5bb19046?pvs=21)
 
 [Global and Local Approaches for Forecasting of Long-Term Natural Gas Consumption in Poland Based on Hierarchical Short Time Series](https://www.notion.so/Global-and-Local-Approaches-for-Forecasting-of-Long-Term-Natural-Gas-Consumption-in-Poland-Based-on--216065be0c0380ba97e2c2faa553f034?pvs=21)
