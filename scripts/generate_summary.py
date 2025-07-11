@@ -262,7 +262,7 @@ When adding new research notes:
 
 ## 🛠️ Technical Details
 
-- **Summary Generator**: Python script using OpenAI GPT-4
+- **Summary Generator**: Python script using OpenAI models
 - **Automation**: GitHub Actions workflow
 - **Last Analysis**: {file_count} markdown files processed
 - **Content Volume**: {total_size:,} characters analyzed
