@@ -79,38 +79,58 @@ def generate_summary(markdown_content: List[Dict]) -> str:
     
     client = OpenAI(api_key=api_key)
     
-    # Prepare content for analysis
+    # Prepare content for analysis with smart truncation for GPT-3.5-turbo
     content_text = ""
-    for file_info in markdown_content:
-        content_text += f"## File: {file_info['path']}\n\n"
-        content_text += f"{file_info['content']}\n\n"
-        content_text += "---\n\n"
+    total_chars = 0
+    # GPT-3.5-turbo has 16K tokens, roughly 4 chars per token
+    # Leave room for prompt and response (about 10K tokens for content)
+    max_chars = 25000  # Conservative limit for GPT-3.5-turbo
     
-    # Check if content is too long and truncate if necessary
-    max_chars = 50000  # Conservative limit for GPT-4
-    if len(content_text) > max_chars:
-        print(f"⚠️  Content too long ({len(content_text)} chars). Truncating to {max_chars} chars.")
-        content_text = content_text[:max_chars] + "\n\n[Content truncated...]"
+    # Sort files by size (smaller first to include more variety)
+    sorted_files = sorted(markdown_content, key=lambda x: x['size'])
     
-    prompt = f"""You are analyzing markdown files from a thesis research repository about Global Energy Forecasting (GEF). 
+    for file_info in sorted_files:
+        file_header = f"## File: {file_info['path']}\n\n"
+        file_footer = "\n\n---\n\n"
+        file_content = file_info['content']
+        
+        # Calculate space needed for this file
+        full_file_size = len(file_header) + len(file_content) + len(file_footer)
+        
+        # If we can fit the whole file, add it
+        if total_chars + full_file_size <= max_chars:
+            content_text += file_header + file_content + file_footer
+            total_chars += full_file_size
+        else:
+            # Try to fit a truncated version
+            remaining_space = max_chars - total_chars - len(file_header) - len(file_footer) - 50
+            if remaining_space > 200:  # Only if we have meaningful space left
+                content_text += file_header
+                content_text += file_content[:remaining_space]
+                content_text += "\n\n[File truncated due to length limits...]"
+                content_text += file_footer
+                break
+            else:
+                break
+    
+    if total_chars >= max_chars:
+        print(f"⚠️  Content truncated from {sum(f['size'] for f in markdown_content):,} to {total_chars:,} chars for GPT-3.5-turbo limits.")
+    
+    prompt = f"""Analyze markdown files from a Global Energy Forecasting (GEF) thesis research repository.
 
-The repository contains research notes mostly in greek language, literature reviews, and analysis organized in folders with dates (RUN_XX_X format).
+The repository contains research notes (mostly in Greek), literature reviews, and analysis in date-organized folders (RUN_XX_X format).
 
-Please analyze all the provided markdown files and create a comprehensive summary that includes:
+Create a comprehensive summary with:
+1. **Overview**: Research focus and objectives
+2. **Key Topics**: Main research areas and methodologies
+3. **Folder Structure**: What each folder/run contains
+4. **Research Progress**: Timeline and evolution
+5. **Key Findings**: Important insights, datasets, methodologies
+6. **Literature & References**: Key papers, tools, frameworks
 
-1. **Overview**: A brief description of the research focus and objectives
-2. **Key Topics Covered**: Main research areas and methodologies discussed
-3. **Folder Structure**: Brief description of what each folder/run contains
-4. **Research Progress**: Timeline and evolution of the research
-5. **Key Findings**: Important insights, datasets, and methodologies mentioned
-6. **Literature & References**: Key papers, tools, or frameworks referenced
+Use proper markdown formatting. Be concise but informative.
 
-Please make the summary well-structured, informative, and suitable for a README.md file. Use proper markdown formatting.
-
-Files analyzed: {len(markdown_content)} markdown files
-Total content size: {sum(f['size'] for f in markdown_content):,} characters
-
-Here are the markdown files to analyze:
+Files analyzed: {len(markdown_content)} | Content: {sum(f['size'] for f in markdown_content):,} chars
 
 {content_text}"""
 
@@ -134,8 +154,70 @@ Here are the markdown files to analyze:
         return response.choices[0].message.content
         
     except Exception as e:
-        print(f"Error generating summary: {e}")
-        return None
+        error_msg = str(e)
+        if "context_length_exceeded" in error_msg or "maximum context length" in error_msg:
+            print(f"⚠️  Still hitting token limits. Trying with even more aggressive truncation...")
+            # Try again with much smaller content
+            return generate_summary_fallback(markdown_content, client)
+        else:
+            print(f"Error generating summary: {e}")
+            return None
+
+def generate_summary_fallback(markdown_content: List[Dict], client) -> str:
+    """
+    Fallback function with very aggressive truncation for GPT-3.5-turbo
+    """
+    print("Using fallback strategy with minimal content...")
+    
+    # Create a very short summary of each file
+    file_summaries = []
+    for file_info in markdown_content:
+        # Take only first 500 chars of each file
+        content_preview = file_info['content'][:500]
+        file_summaries.append(f"**{file_info['path']}**: {content_preview}...")
+    
+    # Limit to first 10 files to stay within token limits
+    if len(file_summaries) > 10:
+        file_summaries = file_summaries[:10]
+        file_summaries.append("...[Additional files omitted due to length limits]")
+    
+    content_text = "\n\n".join(file_summaries)
+    
+    prompt = f"""Analyze these markdown files from a Global Energy Forecasting (GEF) research repository.
+
+Create a brief summary covering:
+1. Research focus and objectives
+2. Key methodologies mentioned
+3. Folder Structure : What each folder/run contains
+4. Main findings and insights
+
+Files: {len(markdown_content)} total
+Content previews:
+
+{content_text}"""
+    
+    try:
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "Create a concise research summary from the provided file previews."
+                },
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+            ],
+            max_tokens=3000,
+            temperature=0.3,
+        )
+        
+        return response.choices[0].message.content
+        
+    except Exception as e:
+        print(f"Fallback also failed: {e}")
+        return f"Unable to generate AI summary due to content length limitations. Repository contains {len(markdown_content)} markdown files with research notes about Global Energy Forecasting."
 
 def create_readme_content(summary: str, file_count: int, total_size: int) -> str:
     """
@@ -180,7 +262,7 @@ When adding new research notes:
 
 ## 🛠️ Technical Details
 
-- **Summary Generator**: Python script using OpenAI GPT-4
+- **Summary Generator**: Python script using OpenAI models
 - **Automation**: GitHub Actions workflow
 - **Last Analysis**: {file_count} markdown files processed
 - **Content Volume**: {total_size:,} characters analyzed

@@ -1,21 +1,17 @@
 # Global Energy Forecasting (GEF) Literature Repository
 
-*Last updated: 2025-07-03*
+*Last updated: 2025-07-11*
+*Files analyzed: 9 | Content size: 35,826 characters*
 
 ## 🤖 AI-Generated Summary
 
-This repository contains research notes and documentation for a thesis on Global Energy Forecasting. The automated summary will be generated once the GitHub Actions workflow is set up and runs.
+The Global Energy Forecasting (GEF) research repository focuses on various aspects of energy forecasting and demand response strategies. Key methodologies mentioned include clustering techniques for targeted demand response, time series analysis using the Darts library, and deep learning approaches for short-term electricity load forecasting. The folder structure includes runs related to clustering, energy load forecasting, Enefit dataset, and research papers. Main findings include the use of clustering for flexible energy communities, the importance of short-term load forecasting, and the application of deep learning in electricity load prediction.
 
 ---
 
 ## 📁 Repository Structure
 
 This repository contains research notes and documentation organized by date in `RUN_XX_X` folders, where the format represents the research sessions.
-
-Current folders:
-- `RUN_20_6/` - Early research notes on clustering, energy load forecasting, and darts guide
-- `RUN_27_6/` - Extended analysis including EDA, Enefit dataset documentation, and GEF papers
-- `RUN_4_7/` - Latest pipeline documentation and dataset information
 
 ## 🔄 Automated Updates
 
@@ -29,24 +25,12 @@ When adding new research notes:
 3. Follow consistent markdown formatting
 4. The summary will be automatically updated on push
 
-## 🛠️ Setup Instructions
+## 🛠️ Technical Details
 
-To enable automated README generation:
-
-1. **Set up OpenAI API Key**:
-   - Go to your GitHub repository settings
-   - Navigate to "Secrets and variables" → "Actions"
-   - Add a new secret named `OPENAI_API_KEY` with your OpenAI API key
-
-2. **Install dependencies** (for local testing):
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run locally** (optional):
-   ```bash
-   python scripts/generate_summary.py
-   ```
+- **Summary Generator**: Python script using OpenAI GPT-4
+- **Automation**: GitHub Actions workflow
+- **Last Analysis**: 9 markdown files processed
+- **Content Volume**: 35,826 characters analyzed
 
 ---
 *This summary was generated automatically using AI. For detailed information, please refer to the individual markdown files in each folder.*
