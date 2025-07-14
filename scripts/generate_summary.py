@@ -136,7 +136,7 @@ Files analyzed: {len(markdown_content)} | Content: {sum(f['size'] for f in markd
 
     try:
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo-16k",
+            model="gpt-3.5-turbo",
             messages=[
                 {
                     "role": "system",
