@@ -1,11 +1,19 @@
 # Global Energy Forecasting (GEF) Literature Repository
 
-*Last updated: 2025-07-11*
+*Last updated: 2025-07-21*
 *Files analyzed: 9 | Content size: 35,826 characters*
 
 ## 🤖 AI-Generated Summary
 
-The Global Energy Forecasting (GEF) research repository focuses on various aspects of energy forecasting and demand response strategies. Key methodologies mentioned include clustering techniques for targeted demand response, time series analysis using the Darts library, and deep learning approaches for short-term electricity load forecasting. The folder structure includes runs related to clustering, energy load forecasting, Enefit dataset, and research papers. Main findings include the use of clustering for flexible energy communities, the importance of short-term load forecasting, and the application of deep learning in electricity load prediction.
+The Global Energy Forecasting (GEF) research repository focuses on various aspects of energy forecasting and demand response strategies. Key methodologies mentioned include clustering techniques for demand response, time series analysis using the Darts library, and deep learning approaches for short-term electricity load forecasting. 
+
+Folder Structure:
+- **RUN_6_10**: Contains files on clustering techniques, Darts library guide, and energy load forecasting methods.
+- **RUN_6_27**: Includes files on targeted demand response using clustering techniques, exploratory data analysis, the Enefit dataset, and a list of GEF papers.
+- **RUN_7_11**: Contains studies on electricity load forecasting and deep learning approaches.
+- **RUN_7_4**: Covers a pipeline for data loading, analysis, and transformation.
+
+Main findings and insights include the application of clustering for targeted demand response in energy communities, the importance of short-term electricity load forecasting using deep learning, and the utilization of datasets like Enefit for predicting energy behavior of prosumers.
 
 ---
 
@@ -27,7 +35,7 @@ When adding new research notes:
 
 ## 🛠️ Technical Details
 
-- **Summary Generator**: Python script using OpenAI GPT-4
+- **Summary Generator**: Python script using OpenAI models
 - **Automation**: GitHub Actions workflow
 - **Last Analysis**: 9 markdown files processed
 - **Content Volume**: 35,826 characters analyzed
