@@ -1,0 +1,3 @@
+## 🤖 AI-Generated Summary
+
+The Global Energy Forecasting (GEF) research repository focuses on various aspects of energy forecasting, including clustering techniques for demand response in energy communities, time series analysis using the Darts library, and energy load forecasting methods. The folders contain information on clustering, time series analysis, energy load forecasting, Enefit dataset, and research papers. Key methodologies mentioned include clustering, time series analysis, and deep learning approaches. The main findings include the use of clustering for targeted demand response, the importance of short-term electricity load forecasting, and the development of innovative platforms like DeepTSF for time series forecasting without code.
