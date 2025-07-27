@@ -32,7 +32,9 @@ jobs:
     - name: Generate README summary
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      run: python scripts/generate_summary.py
+      # run: python scripts/generate_summary.py
+      run: python scripts/claude_summary.py
+
 
     - name: Commit and push changes
       run: |
