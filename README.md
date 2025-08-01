@@ -1,25 +1,62 @@
 # Global Energy Forecasting (GEF) Literature Repository
 
-*Last updated: 2025-07-27*
-*Files analyzed: 12 | Original content: 44,604 chars | Processed: 13,613 chars*
+*Last updated: 2025-08-01*
+*Files analyzed: 12 | Content size: 44,604 characters*
 
 ## 🤖 AI-Generated Summary
 
-### Summary:
+## Summary of Global Energy Forecasting (GEF) Thesis Research Repository
 
-1. **Overview**: The Global Energy Forecasting (GEF) research repository covers a wide range of topics related to energy forecasting, including clustering techniques, time series analysis, and energy load forecasting methods.
-   
-2. **Key Topics**: The main research areas include clustering techniques for demand response, time series analysis using the Darts library, and energy load forecasting methods. Methodologies involve clustering algorithms, deep learning models, and traditional forecasting techniques.
+### Overview
+The Global Energy Forecasting (GEF) research repository focuses on various aspects of energy forecasting, including clustering techniques for demand response in energy communities, time series analysis using the Darts library, and energy load forecasting methods.
 
-3. **Folder Structure**: The folders in the repository contain information on clustering, time series analysis, energy load forecasting, Enefit dataset, and research papers. Each folder provides insights into specific aspects of energy forecasting methodologies.
+### Key Topics
+- Clustering techniques for demand response in energy communities
+- Time series analysis using the Darts library
+- Energy load forecasting methods
+- Utilization of DeepTSF for time series forecasting without code
 
-4. **Research Progress**: The research has evolved over time, incorporating advanced techniques like deep learning and innovative platforms such as DeepTSF for codeless time series forecasting operations.
+### Folder Structure
+1. **RUN_6_10 (clustering.md)**
+   - Focuses on targeted demand response for flexible energy communities using clustering techniques.
 
-5. **Key Findings**: Important insights include the use of clustering for targeted demand response, the significance of short-term electricity load forecasting, and the development of platforms like DeepTSF for efficient time series forecasting.
+2. **RUN_7_11 (paper_studies.md)**
+   - Contains a comprehensive review of deep learning approaches for short-term load forecasting and relevant research papers.
 
-6. **Literature & References**: Key papers and studies in the repository focus on topics like personalized global forecasting, transformer strategies, and short-term load forecasting using machine learning algorithms like LightGBM.
+3. **RUN_6_27 (enefit_dataset.md)**
+   - Introduces the Enefit Dataset for predicting energy behavior of prosumers, including various data files and their descriptions.
 
-This comprehensive summary provides an overview of the diverse research areas covered in the GEF repository, highlighting key insights and methodologies used in energy forecasting studies.
+4. **RUN_6_27 (gef_papers.md)**
+   - Lists key academic papers related to global personalized forecasting, transformer strategies, and hierarchical forecasting.
+
+5. **RUN_6_27 (eda1.md)**
+   - Provides an analysis of the Estonia dataset, including data preprocessing steps and feature engineering.
+
+6. **RUN_7_18 (deepTSF_doc.md)**
+   - Details the DeepTSF platform for codeless machine learning operations in time series forecasting, including architecture and technologies used.
+
+7. **RUN_6_27 (clustering.md)**
+   - Explores targeted demand response for flexible energy communities using clustering techniques, including clustering algorithms and evaluation metrics.
+
+8. **RUN_7_4 (pipeline.md)**
+   - Describes the data preprocessing pipeline, including data loading, transformation, feature addition, outlier removal, and imputation.
+
+9. **RUN_7_25 (STLF_reviews.md)**
+   - Discusses a study on LightGBM-driven electrical load forecasting for enhancing operational efficiency of a power distribution company in Bangladesh.
+
+### Research Progress
+The research repository covers a wide range of topics related to energy forecasting, including innovative methodologies, datasets, and frameworks. The studies focus on enhancing operational efficiency and accuracy in load forecasting for energy communities.
+
+### Key Findings
+- Utilization of clustering techniques for targeted demand response
+- Importance of short-term electricity load forecasting
+- Development of innovative platforms like DeepTSF for codeless time series forecasting
+
+### Literature & References
+- Various academic papers on deep learning approaches, transformer strategies, and hierarchical forecasting
+- Utilization of the Enefit Dataset for predicting energy behavior of prosumers
+
+This summary provides a comprehensive overview of the research repository's contents, highlighting key insights and methodologies in the field of energy forecasting.
 
 ---
 
@@ -29,23 +66,22 @@ This repository contains research notes and documentation organized by date in `
 
 ## 🔄 Automated Updates
 
-This README is automatically updated whenever new markdown files are added to the repository using GitHub Actions and OpenAI API with intelligent content processing.
+This README is automatically updated whenever new markdown files are added to the repository using GitHub Actions and OpenAI API.
 
 ## 📝 Contributing
 
 When adding new research notes:
 1. Create markdown files in the appropriate `RUN_XX_X` folder
-2. Use descriptive filenames and clear headers
+2. Use descriptive filenames
 3. Follow consistent markdown formatting
 4. The summary will be automatically updated on push
 
 ## 🛠️ Technical Details
 
-- **Summary Generator**: Python script using OpenAI models with chunking strategy
-- **Content Processing**: Smart extraction focusing on headers, lists, and key content
+- **Summary Generator**: Python script using OpenAI models
 - **Automation**: GitHub Actions workflow
 - **Last Analysis**: 12 markdown files processed
-- **Processing Efficiency**: 13,613 chars analyzed from 44,604 original chars
+- **Content Volume**: 44,604 characters analyzed
 
 ---
-*This summary was generated automatically using AI with intelligent content chunking and processing. For detailed information, please refer to the individual markdown files in each folder.*
+*This summary was generated automatically using AI. For detailed information, please refer to the individual markdown files in each folder.*
