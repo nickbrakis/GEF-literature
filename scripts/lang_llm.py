@@ -10,7 +10,6 @@ from langchain.schema import Document
 from langchain_openai import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 from langchain_community.vectorstores import FAISS
-# from langchain_community.chat_models import ChatOpenAI
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 from langchain.text_splitter import RecursiveCharacterTextSplitter
