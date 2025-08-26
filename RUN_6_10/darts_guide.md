@@ -38,7 +38,7 @@ https://cooked-flier-beb.notion.site/Darts-211065be0c0380c5b606d0f7b160ad49?sour
 - **Covariates Support**: Παρελθοντικές / Μελλοντικές / Στατικές συμμεταβλητές
 - **Probabilistic Forecasting**: Μέσω δειγματοληψίας ή παραμέτρων κατανομής
 
-[🔗 Πλήρης πίνακας στο documentation της Darts](https://unit8co.github.io/darts/README.html#forecasting-models)
+[ Πλήρης πίνακας στο documentation της Darts](https://unit8co.github.io/darts/README.html#forecasting-models)
 
 ---
 
