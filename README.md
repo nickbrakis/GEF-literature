@@ -1,6 +1,6 @@
 # Global Energy Forecasting (GEF) Literature Repository
 
-*Last updated: 2025-08-26*
+*Last updated: 2025-09-03*
 *Files analyzed: 12 | Content size: 44,604 characters*
 
 ## 🤖 AI-Generated Summary
@@ -8,7 +8,7 @@
 ## Summary of Global Energy Forecasting (GEF) Thesis Research Repository
 
 ### Overview
-The Global Energy Forecasting (GEF) research repository focuses on various aspects of energy forecasting, including clustering techniques for demand response in energy communities, time series analysis using the Darts library, and energy load forecasting methods. The research aims to enhance operational efficiency in power distribution companies and improve forecasting accuracy.
+The Global Energy Forecasting (GEF) research repository focuses on various aspects of energy forecasting, including clustering techniques for demand response in energy communities, time series analysis using the Darts library, and energy load forecasting methods.
 
 ### Key Topics
 - Clustering techniques for demand response in energy communities
@@ -17,43 +17,48 @@ The Global Energy Forecasting (GEF) research repository focuses on various aspec
 - Enefit dataset analysis
 
 ### Folder Structure
-1. **RUN_6_10 (Clustering)**
+1. **RUN_6_10 (clustering.md)**
    - Focuses on targeted demand response for flexible energy communities using clustering techniques.
-   
-2. **RUN_7_11 (Paper Studies)**
-   - Contains a comprehensive review of deep learning approaches for short-term load forecasting.
-   - Lists key research papers and studies related to short-term electricity load forecasting.
 
-3. **RUN_6_27 (Enefit Dataset)**
-   - Analyzes the Enefit dataset from the Kaggle competition for predicting energy behavior of prosumers.
-   - Provides insights into the dataset structure and variables.
+2. **RUN_7_11 (paper_studies.md)**
+   - Contains a comprehensive review of deep learning approaches for short-term load forecasting and relevant research papers.
 
-4. **RUN_6_27 (GEF Papers)**
-   - Lists key research papers related to energy forecasting, including studies on personalized load forecasting and transformer strategies.
+3. **RUN_6_27 (enefit_dataset.md)**
+   - Analyzes the Enefit dataset from a Kaggle competition for predicting energy behavior of prosumers.
 
-5. **RUN_6_27 (Clustering)**
-   - Explores targeted demand response for flexible energy communities using clustering techniques.
-   - Introduces the Peak Performance Score (PPS) as a novel evaluation metric for clustering.
+4. **RUN_6_27 (gef_papers.md)**
+   - Lists key research papers related to short-term electricity-load forecasting and forecasting groups of time series.
 
-6. **RUN_7_4 (Pipeline)**
-   - Describes the data preprocessing pipeline, including data loading, transformation, feature engineering, and outlier detection.
+5. **RUN_6_27 (eda1.md)**
+   - Provides insights into the exploratory data analysis of the Estonia dataset for energy forecasting.
 
-7. **RUN_7_25 (STLF Reviews)**
-   - Discusses a study on LightGBM-driven electrical load forecasting for enhancing operational efficiency in a power distribution company in Bangladesh.
+6. **RUN_7_18 (deepTSF_doc.md)**
+   - Details the DeepTSF platform for codeless machine learning operations in time series forecasting.
+
+7. **RUN_6_27 (clustering.md)**
+   - Discusses targeted demand response for flexible energy communities using clustering techniques.
+
+8. **RUN_7_4 (pipeline.md)**
+   - Outlines the data preprocessing pipeline for energy forecasting tasks.
+
+9. **RUN_7_25 (STLF_reviews.md)**
+   - Summarizes a study on LightGBM-driven electrical load forecasting for enhancing operational efficiency in Bangladesh.
 
 ### Research Progress
-The research repository covers a wide range of topics related to energy forecasting, including the development of innovative methodologies, evaluation metrics, and data preprocessing techniques. The studies aim to improve the accuracy and efficiency of energy load forecasting in various contexts.
+The research repository covers a wide range of topics related to energy forecasting, including the development of innovative platforms like DeepTSF, the analysis of clustering techniques for demand response, and the exploration of various datasets and methodologies for load forecasting.
 
 ### Key Findings
-- Use of clustering techniques for targeted demand response in energy communities
-- Importance of short-term electricity load forecasting for operational efficiency
-- Development of novel evaluation metrics like Peak Performance Score (PPS)
-- Application of deep learning approaches for time series forecasting
+- Importance of clustering techniques for targeted demand response
+- Significance of short-term electricity load forecasting
+- Development of innovative platforms like DeepTSF for codeless time series forecasting
+- Evaluation of different clustering algorithms for load profile analysis
 
 ### Literature & References
-- Various research papers and studies related to energy forecasting, clustering techniques, deep learning approaches, and load forecasting methodologies.
+- **STEFL survey (2024)**
+- **Principles and Algorithms for Forecasting Groups of Time Series: Locality and Globality**
+- **A comprehensive review on deep learning approaches for short-term load**
 
-Overall, the research repository provides valuable insights into energy forecasting methodologies, data analysis techniques, and innovative approaches to improve operational efficiency in the energy sector.
+Overall, the research repository provides valuable insights into energy forecasting methodologies, datasets, and tools, contributing to advancements in the field of global energy forecasting.
 
 ---
 
